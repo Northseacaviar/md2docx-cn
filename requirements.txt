@@ -1,0 +1,5 @@
+python-docx>=1.1
+latex2mathml>=3.77
+mathml2omml>=0.9
+# Windows 上导出 PDF 预览才需要
+# pywin32>=306
